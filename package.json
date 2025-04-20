@@ -5,6 +5,7 @@
   "description": "Set of modern React components for PDF highlighting",
   "author": "Daniel Arnould <daniel.s.arnould@gmail.com>",
   "license": "MIT",
+  "publishConfig": { "access": "public"},
   "contributors": [
     {
       "name": "Daniel Arnould",
