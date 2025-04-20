@@ -20,8 +20,7 @@
   "typedocOptions": {
     "entryPoints": ["./src/index.ts"],
     "out": "public/docs",
-    "plugin": ["typedoc-theme-category-nav"],
-    "theme": "navigation"
+    "theme": "default",
   },
   "include": ["./src"]
 }
